@@ -1,0 +1,14 @@
+{
+  "subdomain": "achintya",
+  "domain": "thedev.me",
+  "email_or_discord": "staidrat01331",
+  "github_username": "moon4546x",
+  "description": "My digital portfolio website",
+
+  "records": {
+    "A": [
+      "76.76.21.22"
+    ]
+  },
+  "proxied": true
+}
